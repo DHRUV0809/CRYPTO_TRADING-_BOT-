@@ -52,3 +52,5 @@ Use only **testnet** credentials. No real money is involved.
 
 Create a `.env` file in the root folder:
 
+
+for the files of cli based check " https://github.com/DHRUV0809/crypto_trading_cli-based "
