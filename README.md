@@ -21,6 +21,17 @@ This is a simplified trading bot built using the `python-binance` library that p
 
 ---
 
+# 📦 Binance Futures Trading Bot
+
+This repo includes both CLI and Streamlit-based trading bots for Binance USDT-M Futures Testnet.
+
+📂 Detailed usage instructions:
+- CLI version → [docs/README-CLI.md](docs/README-CLI.md)
+- Streamlit version → [docs/README-STREAMLIT.md](docs/README-STREAMLIT.md)
+
+Use only **testnet** credentials. No real money is involved.
+
+
 ## 📁 Installation
 
 1. **Clone or download this repository**
